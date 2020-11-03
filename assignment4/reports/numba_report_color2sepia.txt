@@ -1,0 +1,5 @@
+Timing: numba_color2sepia
+Average runtime running numba_color2sepia after 3 runs: 0.1665177345275879 s
+Average runtime running of numba_color2sepia is 32.27377321768281 times faster than python_report_color2sepia.txt
+Average runtime running of numba_color2sepia is 20.495524840801714 times slower than numpy_report_color2sepia.txt
+Timing preformed using: (400, 600, 3)
