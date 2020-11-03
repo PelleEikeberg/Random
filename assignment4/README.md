@@ -74,20 +74,19 @@ In this assignment, we are going to manipulate the "rain.jpg" image. (the code w
 
 
 
-![alt text](https://raw.github.uio.no/IN3110/IN3110-pellee/master/assignment4/images/rain.jpg?token=AAABE43D22HED3ITPHPWOPS7P4QH6)
+![alt text](https://raw.githubusercontent.com/PelleEikeberg/Random/master/assignment4/images/rain.jpg)
 
 The first part is to apply a grayscale to the image. We have been given the math-formula so we only need to apply it. After each pixel has been given the same value we can be shure it will be in the range white->black.
 
 
 
-![alt text](https://raw.github.uio.no/IN3110/IN3110-pellee/master/assignment4/images/RGB_to_gray_explanation.jpeg?token=AAABE45WMP4HEF3NHETL4727P4TRA
-)
+![alt text](https://raw.githubusercontent.com/PelleEikeberg/Random/master/assignment4/images/RGB_to_gray_explanation.jpeg)
 
 After applying we get:
 
 
 
-![alt text](https://raw.github.uio.no/IN3110/IN3110-pellee/master/assignment4/images/rain_python_color2gray.jpeg?token=AAABE443HCCMP6AAAPIVIWK7P4T7G)
+![alt text](https://raw.githubusercontent.com/PelleEikeberg/Random/master/assignment4/images/rain_python_color2gray.jpeg)
 
 
 
@@ -95,7 +94,7 @@ The sepia is the same prisiple except we have different weights for the differen
 
 
 
-![alt text](https://raw.github.uio.no/IN3110/IN3110-pellee/master/assignment4/images/rain_python_color2sepia.jpeg?token=AAABE42VOGF643UAUL25H6S7P4UHG)
+![alt text](https://raw.githubusercontent.com/PelleEikeberg/Random/master/assignment4/images/rain_python_color2sepia.jpeg)
 
 
 ## Reports:
